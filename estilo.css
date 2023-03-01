@@ -1,0 +1,39 @@
+body {
+    color: rgb(5, 51, 5);
+    background-color: beige
+}
+
+p {
+    color: rgb(15, 102, 49);
+    font-size: 12px;
+    font-family: Courier;
+    /* font-weight:bold; */
+    font-style: italic;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-align: left;
+    text-indent: 30px;
+}
+
+.titulo_princ {
+    color: black;
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tit_secund {
+    font-size: 24px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.pie {
+    font-size: 14px;
+    text-align: center;
+    /* font-weight:bold; */
+}
+
+.lateral {
+    vertical-align: top;
+}
